@@ -1,6 +1,7 @@
-import React from 'react'
-import SuicideTrendsDashboard from './SuicideTrendsDashboard'
+import SuicideTrendsDashboard from "./SuicideTrendsDashboard";
 
-export default function App() {
-  return <SuicideTrendsDashboard />
+function App() {
+  return <SuicideTrendsDashboard />;
 }
+
+export default App;
